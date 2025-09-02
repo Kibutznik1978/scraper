@@ -1,0 +1,13 @@
+{
+  "id": "MLS123",
+  "address": {"line1": "123 Main St", "state": "CA", "postalCode": "12345"},
+  "beds": "3",
+  "baths": "2.5",
+  "livingArea": "1,234",
+  "lotSizeAcres": "0.5",
+  "price": "$350,000",
+  "yearBuilt": "1999",
+  "propertyType": "Single Family",
+  "amenities": ["Two Car Garage", "Community Pool"],
+  "description": "Beautiful home with two car garage and solar panels."
+}
