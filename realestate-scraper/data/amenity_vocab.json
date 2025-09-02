@@ -1,0 +1,14 @@
+{
+  "garage": ["garage","2-car garage","two car garage","attached garage","detached garage"],
+  "fireplace": ["fireplace","fire place"],
+  "pool": ["pool","swimming pool","private pool","community pool"],
+  "EV charger": ["ev charger","electric vehicle charging","ev charging","level 2 charger"],
+  "balcony": ["balcony","terrace"],
+  "in-unit laundry": ["in-unit laundry","washer dryer in unit","laundry in unit","wd in unit"],
+  "walk-in closet": ["walk in closet","walk-in closet","walkin closet"],
+  "central A/C": ["central a/c","central ac","central air","forced air cooling"],
+  "solar": ["solar","solar panels","pv panels","photovoltaic"],
+  "solar hot water": ["solar hot water"],
+  "rooftop deck": ["roof deck","rooftop deck"],
+  "home theater": ["media room","home theater"]
+}
